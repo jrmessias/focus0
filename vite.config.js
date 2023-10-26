@@ -1,6 +1,6 @@
 export default{
     root: 'src',
-    base: 'https://jrmessias.com.br/focus0/',
+    base: 'https://focus0.jrmessias.com.br/',
     build: {
         outDir: '../dist'
     }
